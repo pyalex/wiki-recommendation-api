@@ -2,9 +2,13 @@
 
 ## Installation
 
+Prerequisites:
 Python 3.6+
+
 faiss
+
 16+ Gb of RAM
+
 
 ```
 pip install -r requirements.txt
